@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VersionsLog</string>
+    <string name="action_list">Listado</string>
+    <string name="action_search">Buscar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txv_list_upperTitle">Novedades Versión</string>
+    <string name="txv_list_version">Versión:</string>
+    <string name="txv_search_upperTitle">Versiones anteriores</string>
+    <string name="txv_select_version">Seleciona versión</string>
+    <string name="txv_version_changes">Cambios versión</string>
+</resources>

@@ -1,0 +1,10 @@
+com/asesoreslocales/ChangelogVersionDAO/ChangelogVersionDAO.class
+com/asesoreslocales/ChangelogVersonEJB/ChangelogVersionEJB.class
+com/asesoreslocales/Config.class
+com/asesoreslocales/ChangelogWS.class
+com/asesoreslocales/ChangelogChangesEJB/ChangelogChangesEJB.class
+com/asesoreslocales/ChangelogVersonEJB/IChangelogVersionEJB.class
+com/asesoreslocales/ChangelogChangesDAO/ChangelogChangesDAO.class
+com/asesoreslocales/ChangelogChangesEJB/IChangelogChangesEJB.class
+com/asesoreslocales/ChangelogChangesDAO/IChangelogChanges.class
+com/asesoreslocales/ChangelogVersionDAO/IChangelogVersionDAO.class
